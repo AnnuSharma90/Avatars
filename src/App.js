@@ -1,25 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+function App(){
+
+	const sum = function(a,b){
+	return a+b;
+	}
+	const sub = function(a,b){
+	return a-b;
+	}
+	const div = function(a,b){
+	 return a/b;
+	}
+	const mul = function(a,b){
+	 return a*b;
+	}
+
+return(
+	<ul>
+	<li><strong>Sum of two number is {sum(10,20)}</strong></li>
+	<li><strong>Difference of two number is{sub(20,10)}</strong></li>
+	<li><strong>Division of two number is {div(20,10)}</strong></li>
+	<li><strong>Multiplication of two number is {mul(10,20)}</strong></li>
+	</ul>
+  );	
 }
-
 export default App;
