@@ -1,0 +1,15 @@
+.avatarstyle img{
+	width: 200px;
+	height: 200px;
+}
+body{
+	position: relative;
+}
+ button{
+	background-color: pink;
+	position:absolute;
+	left: 700px;
+	padding: 10px;
+	cursor: pointer;
+	
+}
