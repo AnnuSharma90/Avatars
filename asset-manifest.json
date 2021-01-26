@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/Avatars/static/js/main.ec398270.chunk.js",
+    "main.js.map": "/Avatars/static/js/main.ec398270.chunk.js.map",
+    "runtime-main.js": "/Avatars/static/js/runtime-main.5b20f92d.js",
+    "runtime-main.js.map": "/Avatars/static/js/runtime-main.5b20f92d.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/Avatars/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.fc433037.chunk.js": "/Avatars/static/js/2.fc433037.chunk.js",
+    "static/js/2.fc433037.chunk.js.map": "/Avatars/static/js/2.fc433037.chunk.js.map",
+    "index.html": "/Avatars/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/Avatars/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/js/2.fc433037.chunk.js.LICENSE.txt": "/Avatars/static/js/2.fc433037.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b20f92d.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.fc433037.chunk.js",
+    "static/js/main.ec398270.chunk.js"
+  ]
+}
